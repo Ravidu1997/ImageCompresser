@@ -23,6 +23,4 @@ npm start
 ```
 
 ![Demo](./demo1.png)
-![Demo](./demo2.png)
-![Demo](./demo3.png)
-![Demo](./demo4.png)
+
