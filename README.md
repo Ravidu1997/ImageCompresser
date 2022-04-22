@@ -26,8 +26,14 @@ npm start
   <tr>
     <td><img src="demo1.PNG" width=1000 height=400></td>
   </tr>
-    <tr>
+  <tr>
     <td><img src="demo2.PNG" width=1000 height=400></td>
+  </tr>
+  <tr>
+    <td><img src="demo3.PNG" width=1000 height=400></td>
+  </tr>
+  <tr>
+    <td><img src="demo4.PNG" width=1000 height=400></td>
   </tr>
  </table>
 
