@@ -24,10 +24,10 @@ npm start
 
 <table>
   <tr>
-    <td><img src="demo1.PNG" width=300 height=1000></td>
+    <td><img src="demo1.PNG" width=1000 height=300></td>
   </tr>
     <tr>
-    <td><img src="demo2.PNG" width=300 height=1000></td>
+    <td><img src="demo2.PNG" width=1000 height=300></td>
   </tr>
  </table>
 
